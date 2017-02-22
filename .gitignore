@@ -1,2 +1,4 @@
 *.dat
 temp*
+!input.dat
+mars/surface
